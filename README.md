@@ -29,3 +29,5 @@
 ![trello screenshot4](./docs/trello4.png)
 
 ![trello screenshot5](./docs/trello5.png)
+
+![trello screenshot6](./docs/trello6.png)
