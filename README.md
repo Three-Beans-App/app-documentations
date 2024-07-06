@@ -9,6 +9,23 @@
 ### Tech stack
 
 # R2 Dataflow Diagram
+### Overview Diagram
+We first created a process decomposition of the application using the Gene & Sarson method of notation. This shows a broad overview of our apps system processes:
+![overview diagram](./docs/revised-dataflow-diagram.png)
+### Sequence Diagrams
+We also created four sequence diagrams to show a more comprehensive representation of how various pieces of data move throughout our application.
+
+This diagram shows user login/signup:
+![login sequence diagram](./docs/dataflow-diagram-login.png)
+
+This diagram shows the process of placing an order:
+![order sequence diagram](./docs/dataflow-diagram-order.png)
+
+This diagram shows an admin user updating the status of an ongoing order:
+![status sequence diagram](./docs/dataflow-diagram-status.png)
+
+This diagram shows and admin user adding a new item to the menu:
+![add item sequence diagram](./docs/dataflow-diagram-add-item.png)
 
 # R3 Application Architecture Diagram
 
