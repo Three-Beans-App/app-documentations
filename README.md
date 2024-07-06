@@ -1,3 +1,5 @@
+# Esther Faith Dennis, Brett Russell and Nicholas Rowe T3A2 - Part A
+
 # R1 Description of your website, including:
 
 ### Purpose
@@ -9,10 +11,14 @@
 ### Tech stack
 
 # R2 Dataflow Diagram
+
 ### Overview Diagram
+
 We first created a process decomposition of the application using the Gene & Sarson method of notation. This shows a broad overview of our apps system processes:
 ![overview diagram](./docs/revised-dataflow-diagram.png)
+
 ### Sequence Diagrams
+
 We also created four sequence diagrams to show a more comprehensive representation of how various pieces of data move throughout our application.
 
 This diagram shows user login/signup:
