@@ -113,7 +113,7 @@ This diagram shows and admin user adding a new item to the menu:
   - Change the availability of menu items to avoid customer's ordering unavailible items.
   - Scan the customer's QR code to identify the order.
 
-### Manager - Patrick LeBreton
+### Cafe Owner and Manager - Patrick LeBreton
 
 - Name : Patrick LeBreton
 - Age: 45
@@ -130,6 +130,26 @@ This diagram shows and admin user adding a new item to the menu:
 
 # R6 Trello
 
+For the project, we will use the below platforms to do our project management and planning:
+
+- Trello - We will use Trello to plan the project. There are four sprints as shown below:
+
+  - Documentation: Documentation tickets start out in the "To do" column. This is for part A of the assignment. We divide the questions into tickets on the board and each team member can pick up a ticket and drag it to the "Doing" section.
+  - Frontend: Frontend also starts with tickets for each part of the Frontend work in the "To do" column. Each ticket will have a name and description describing what needs to be done for that ticket. This sprint will be done after the documentation part is done, then the team members who will develop the Frontend can pick up a ticket and drag it to the "Doing" section.
+  - Backend: Backend also starts with tickets for each part of the work in the "To do" column. Each ticket also has a name and description describing what needs to be done as part of that ticket. After the Documentation sprint is done, then the team members who will develop the Backend can pick up a ticket and drag it to the "Doing" section.
+  - Deployments: The deployment sprint is for near the end of the development when we want to start making our app available online. This will include deployment of both Frontend and Backend.
+
+  Progress during a sprint:
+
+  - Backlog: If any ticket is blocked and not able to progress because of another ticket, we will drag it to the Backlog section, then the team will review what needs to be done, and help to unblock that ticket as soon as possible.
+  - Todo: During a sprint each team member when they finish their current ticket can pick up a new ticket out of the correct Todo section.
+  - Doing: Tickets in the Doing column are used to track the work which which is currently in progress.
+  - Code Review: When we finish one ticket, we will open a pull request and allow other team members to review it.
+  - Test: After we have done a feature/ticket, we will drag it to the "Test" column, then other team members will have a chance to test it is working properly.
+
+- Discord - We have created a team channel for the project using Discord. We can share our ideas in the Discord, and organise meetings and stand ups in the chat. For meetings we will use Zoom.
+
+Below are some screenshots for Trello project.
 
 ![trello screenshot1](./docs/trello1.png)
 
@@ -142,3 +162,13 @@ This diagram shows and admin user adding a new item to the menu:
 ![trello screenshot5](./docs/trello5.png)
 
 ![trello screenshot6](./docs/trello6.png)
+
+![trello screenshot7](./docs/trello7.png)
+
+![trello screenshot8](./docs/trello8.png)
+
+![trello screenshot9](./docs/trello9.png)
+
+![trello screenshot10](./docs/trello10.png)
+
+![trello screenshot11](./docs/trello11.png)
