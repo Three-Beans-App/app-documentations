@@ -3,12 +3,84 @@
 # R1 Description of your website, including:
 
 ### Purpose
+#### The Problem
+Three Beans is a small suburban cafe who specialise in take away coffee. The owner approached us to create a web application for their staff and customers in order to assist them in improving their efficiency of service.
+
+Recently Three Beans Cafe has grown and become a lot more busy, while this success has been great for the business, it has also introduced a new issue with longer lines and increased wait times.
+
+#### The Solution
+With the store becoming more and more crowded during peak times and many customers having to wait far too long in store to get their morning coffee, we have suggested an app which allows customers to place orders in advance and view the status and wait time of their order.  
+This allows users to plan their commute and arrive at the cafe as their coffee order is being completed instead of needing to wait unnecessarily in store.  
+The secondary purpose of this application is to add some extra convenience by allowing users to save their favourite orders so that customers with a regular order don't need to worry about manually customising it each time they use the app.  
+Creating this system would allow the business to be less crowded at peak times while giving more convenience to customers, this results in increased productivity and customer satisfaction.
 
 ### Functionality / features
+The 3 beans cafe website is accessible by all members of the public, once inside the basic functionalities and features include:
+- A navbar for easily accessing different pages
+- A menu page with images and descriptions of each item sold
+- A login/signup portal for users to create profiles for placing orders
+
+Users who create a profile within the 3 beans cafe web application will have access to the following additional features:
+- The ability to customise and add items to a cart for purchase
+- The ability to place orders through a checkout feature
+- An option to select items to a favourites list
+- Confirmation of orders through QR code
+- Order status tracking in app where users can track wait time
+
+Admin users (staff) will also have a portal within the application which will allow them to:
+- View ongoing and previous orders 
+- Update the completion status of orders
+- Add new items to the existing menu
 
 ### Target audience
+The target audience will be the following groups:
+- Regular customers who want to conveniently save and place orders.
+- People looking for information about food and coffee options in the surrounding area.
+- Commuters who want a convenient way to order coffee that saves time on the way to work.
+
 
 ### Tech stack
+#### Front end
+- [JavaScript](https://www.javascript.com/)
+- [ReactJS](https://react.dev/)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+#### Database
+- [MongoDB](https://www.mongodb.com/)
+
+#### Object Document Mapping
+- [Mongoose](https://mongoosejs.com/docs/)
+
+#### Back end
+- [Node.JS](https://nodejs.org/en)
+- [ExpressJS](https://expressjs.com/)
+
+#### Testing
+- [Jest](https://jestjs.io/)
+
+#### Package Management
+- [npm](https://www.npmjs.com/)
+
+#### Diagrams
+- [draw.io](https://www.drawio.com/)
+
+#### Design
+- [Figma](https://www.figma.com/)
+
+#### Project Management
+- [Trello](https://trello.com/home)
+
+#### DevOps
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [GitHub](https://github.com/)
+
+#### Hosting
+- [Netlify](https://www.netlify.com/) (front end)
+- [Render](https://render.com/) (back end)
+- [MongoDB atlas](https://www.mongodb.com/products/platform/atlas-database) (database)
+
+
 
 # R2 Dataflow Diagram
 
