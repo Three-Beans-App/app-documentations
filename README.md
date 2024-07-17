@@ -205,7 +205,94 @@ This diagram shows and admin user adding a new item to the menu:
   - View the sale reports.
 
 # R5 Wireframes for multiple standard screen sizes, created using industry standard software
+#### Home Page - Logout out
+![Home Page screenshot1](docs/HomePage.png)
 
+#### Login page
+![Login Page](docs/Login.png)
+
+#### Register Page
+![Register page](docs/register.png)
+
+#### Home Page Logged in
+![Register page](docs/loggedin.png)
+
+#### Menu
+![Register page](docs/OrderingScreen.png)
+
+#### Menu cart
+![Register page](docs/Opencart.png)
+
+#### Extended menu
+![Register page](docs/extended.png)
+
+#### Cart
+![Register page](docs/Cart.png)
+
+#### Order Confirmation
+![Register page](docs/Orderconfirmation.png)
+
+#### User Order History
+![Register page](docs/Userorderhistory.png)
+
+#### User Favourite List
+![Register page](docs/UserFavouritelist.png)
+
+#### Admin current orders
+![Register page](docs/Admincurrentorders.png)
+
+#### Edit and add items
+![Register page](docs/editaddmenuitems.png)
+
+#### Add items
+![Register page](docs/additems.png)
+
+#### Edit items
+![Register page](docs/edititems.png)
+
+### Iphone
+
+#### Home - logged out
+![Register page](docs/phonehomeloggedout.png)
+
+#### Log in
+![Register page](docs/phonelogin.png)
+
+#### Register
+![Register page](docs/phoneregister.png)
+
+#### logged in
+![Register page](docs/phonehomeloggedin.png)
+
+#### Menu
+![Register page](docs/phonemenu.png)
+
+#### Menu Extended
+![Register page](docs/phonemenuextended.png)
+
+#### Cart 
+![Register page](docs/phonecart.png)
+
+#### Order Confirmation
+![Register page](docs/phoneorderconfirmation.png)
+
+#### User Order History
+![Register page](docs/phoneuserorderhistory.png)
+
+#### User Favourites
+![Register page](docs/phoneuserfavourites.png)
+
+#### Admin Current Orders
+![Register page](docs/phoneadmincurrentorders.png)
+
+#### Admin edit/add Menu
+![Register page](docs/phoneeditaddmenu.png)
+
+#### Admin edit 
+![Register page](docs/phoneadmineditmenu.png)
+
+#### Admin add
+![Register page](docs/phoneadminadditem.png)
 # R6 Trello
 
 For the project, we will use the below platforms to do our project management and planning:
