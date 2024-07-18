@@ -156,11 +156,11 @@ This diagram shows and admin user adding a new item to the menu:
 
 ## User Personas
 
-### User - Jon Graham - First time Customer
+### User - John Graham - First time Customer
 
 ![John user story](./docs/user-story-john.png)
 
-### User - Emma William - Regular Customer
+### User - Emma Williams - Regular Customer
 
 ![Emma user story](./docs/user-story-emma.png)
 
