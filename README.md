@@ -16,27 +16,34 @@ Creating this system would allow the business to be less crowded at peak times w
 
 ### Functionality / features
 The 3 beans cafe website is accessible by all members of the public, once inside the basic functionalities and features include:
-- A navbar for easily accessing different pages
-- A menu page with images and descriptions of each item sold
-- A login/signup portal for users to create profiles for placing orders
+- A navbar for easily accessing different pages.
+- A menu page with images and descriptions of each item sold.
+- A login/signup portal for users to create profiles for placing orders.
+- The ability to customise and add items to a cart for purchase.
+- The ability to place orders through a checkout feature.
+- Confirmation of orders through QR code.
+- Order status tracking in app where users can track wait time.
 
 Users who create a profile within the 3 beans cafe web application will have access to the following additional features:
-- The ability to customise and add items to a cart for purchase
-- The ability to place orders through a checkout feature
-- An option to select items to a favourites list
-- Confirmation of orders through QR code
-- Order status tracking in app where users can track wait time
+- An option to add selected items to a favourite list.
+- The ability to customise and remove items within that list.
+
 
 Admin users (staff) will also have a portal within the application which will allow them to:
-- View ongoing and previous orders 
-- Update the completion status of orders
-- Add new items to the existing menu
+- View ongoing and previous orders .
+- Update the completion status of orders.
+- Add new items to the existing menu.
+- Make adjustments to existing menu items.
+- Delete menu items that are no longer available.
+- Track and modify inventory supplies.
 
 ### Target audience
 The target audience will be the following groups:
 - Regular customers who want to conveniently save and place orders.
 - People looking for information about food and coffee options in the surrounding area.
 - Commuters who want a convenient way to order coffee that saves time on the way to work.
+- Cafe staff who can use the tracking and order history to improve efficiency.
+- Management wanting to track sales and update menu options.
 
 
 ### Tech stack
