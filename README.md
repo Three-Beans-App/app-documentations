@@ -2,34 +2,34 @@
 
 # R1 Description of your website, including:
 
-### Purpose
-#### The Problem
-Three Beans is a small suburban cafe who specialise in take away coffee. The owner approached us to create a web application for their staff and customers in order to assist them in improving their efficiency of service.
+## Purpose
+### The Problem
+Three Beans is a small suburban cafe specialising in takeaway coffee. The owner approached us to create a web application for their staff and customers in order to assist them in improving their efficiency of service.
 
-Recently Three Beans Cafe has grown and become a lot more busy, while this success has been great for the business, it has also introduced a new issue with longer lines and increased wait times.
+With their recent growth and increased business, Three Beans has encountered longer lines and increased wait times, which, while a sign of success, has also led to some customer dissatisfaction.
 
-#### The Solution
-With the store becoming more and more crowded during peak times and many customers having to wait far too long in store to get their morning coffee, we have suggested an app which allows customers to place orders in advance and view the status and wait time of their order.  
-This allows users to plan their commute and arrive at the cafe as their coffee order is being completed instead of needing to wait unnecessarily in store.  
-The secondary purpose of this application is to add some extra convenience by allowing users to save their favourite orders so that customers with a regular order don't need to worry about manually customising it each time they use the app.  
-Creating this system would allow the business to be less crowded at peak times while giving more convenience to customers, this results in increased productivity and customer satisfaction.
+### The Solution
+Ro address the issue of longer wait times and crowded stores during peak hours, we have suggested an appllication that will allow customers to place orders in advance and track the status and wait time of their orders.  
+This allows users to plan their commute and arrive at the cafe as their coffee order is being completed, which will minimise unnecessary in-store waiting.  
+Additionally, this application will offer extra convenience to regular customers by allowing them to save their favourite orders, thus eliminating the need for manual customisation with each use.  
+This system aims to reduce peak-time crowding, enhance customer convenience, and improve overall productivity and satisfaction.
 
-### Functionality / features
-The 3 beans cafe website is accessible by all members of the public, once inside the basic functionalities and features include:
+## Functionality / features
+#### The Three Beans Cafe website is accessible to the public, offering the following features:
 - A navbar for easily accessing different pages.
 - A menu page with images and descriptions of each item sold.
 - A login/signup portal for users to create profiles for placing orders.
 - The ability to customise and add items to a cart for purchase.
 - The ability to place orders through a checkout feature.
-- Confirmation of orders through QR code.
+- Confirmation of orders through QR codes.
 - Order status tracking in app where users can track wait time.
 
-Users who create a profile within the 3 beans cafe web application will have access to the following additional features:
-- An option to add selected items to a favourite list.
+#### Users who create a profile will have these additional features:
+- An option to add selected items to a favourite List.
 - The ability to customise and remove items within that list.
 
 
-Admin users (staff) will also have a portal within the application which will allow them to:
+#### Admin users (staff) will also have a portal within the application which will allow them to:
 - View ongoing and previous orders .
 - Update the completion status of orders.
 - Add new items to the existing menu.
@@ -37,11 +37,11 @@ Admin users (staff) will also have a portal within the application which will al
 - Delete menu items that are no longer available.
 - Track and modify inventory supplies.
 
-### Target audience
-The target audience will be the following groups:
+## Target audience
+#### The target audience will be the following groups:
 - Regular customers who want to conveniently save and place orders.
-- People looking for information about food and coffee options in the surrounding area.
-- Commuters who want a convenient way to order coffee that saves time on the way to work.
+- People looking for information about food and coffee options in the area.
+- Commuters seeking a time-saving way to order coffee on their way to work.
 - Cafe staff who can use the tracking and order history to improve efficiency.
 - Management wanting to track sales and update menu options.
 
