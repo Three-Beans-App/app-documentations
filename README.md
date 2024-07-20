@@ -258,49 +258,73 @@ This diagram shows and admin user adding a new item to the menu:
 
 #### Home Page - Logout out
 
+Nav bar allows Users to login and register
+
 ![Home Page screenshot1](docs/HomePage.png)
 
 #### Login page
+
+Users can login on this page, if users dont have an account they can register
 
 ![Login Page](docs/Login.png)
 
 #### Register Page
 
+Users can register on this page
+
 ![Register page](docs/register.png)
 
 #### Home Page Logged in
+
+Once user have logged in they can access thier profile on the top right of the screen
 
 ![Register page](docs/loggedin.png)
 
 #### Menu
 
+Using the menu navigation bar, users can filter the menu items using the left buttons, each item is displayed in a seperate card, users can add an item to there favourites list using the star icon, a quick add icon is also shown on the card using the cart icon, this will add the item without any modifcations
+
 ![Register page](docs/OrderingScreen.png)
 
 #### Menu cart
+
+If the users click on the cart icon at the top right the cart will be shown allowing for items to be added in quantity while also showing the price and finally deleting the item. Once the user is happy with the cart they can confirm the order.
 
 ![Register page](docs/Opencart.png)
 
 #### Extended menu
 
+The extended menu allows users to add modifications to an item, including sugars and different milk.
+
 ![Register page](docs/extended.png)
 
 #### Cart
+
+The cart page is the final check before the user confirms the order.
 
 ![Register page](docs/Cart.png)
 
 #### Order Confirmation
 
+The order confirmation page will allow users to choose a time for the order, they have the option of choosing a specific time or have the order made straight away.
+
 ![Register page](docs/Orderconfirmation.png)
 
 #### User Order History
+
+The user order histroy is found under the option menu for the users profile, this allows users to see previous orders, users will be able to add specific items to the cart from the order or the entire order
 
 ![Register page](docs/Userorderhistory.png)
 
 #### User Favourite List
 
+Found under the users profile, the favourites list is where users find there saved menu items, these can also be added to the cart.
+
 ![Register page](docs/UserFavouritelist.png)
 
 #### Admin current orders
+
+The first admin page will allow staff to see the current orders, they can adjust the time, and change the status of the item.
 
 ![Register page](docs/Admincurrentorders.png)
 
@@ -310,13 +334,17 @@ This diagram shows and admin user adding a new item to the menu:
 
 #### Add items
 
+Admins can add items to the menu, they will choose the menu item type, name, description and the price
+
 ![Register page](docs/additems.png)
 
 #### Edit items
 
+Similar to the add items page, the admins can edit exisitng items
+
 ![Register page](docs/edititems.png)
 
-### Iphone
+### Phone Screens
 
 #### Home - logged out
 
