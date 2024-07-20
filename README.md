@@ -9,7 +9,7 @@ Three Beans is a small suburban cafe specialising in takeaway coffee. The owner 
 With their recent growth and increased business, Three Beans has encountered longer lines and increased wait times, which, while a sign of success, has also led to some customer dissatisfaction.
 
 ### The Solution
-Ro address the issue of longer wait times and crowded stores during peak hours, we have suggested an appllication that will allow customers to place orders in advance and track the status and wait time of their orders.  
+To address the issue of longer wait times and crowded stores during peak hours, we have suggested an appllication that will allow customers to place orders in advance and track the status and wait time of their orders.  
 This allows users to plan their commute and arrive at the cafe as their coffee order is being completed, which will minimise unnecessary in-store waiting.  
 Additionally, this application will offer extra convenience to regular customers by allowing them to save their favourite orders, thus eliminating the need for manual customisation with each use.  
 This system aims to reduce peak-time crowding, enhance customer convenience, and improve overall productivity and satisfaction.
