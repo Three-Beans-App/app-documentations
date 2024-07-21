@@ -135,8 +135,6 @@ This diagram shows and admin user adding a new item to the menu:
 
 # R4 User Stories
 
-# R4 User Stories
-
 ### Standard User
 
 1. As a user, I want to be able to view the home page and navigate to the menu page.
@@ -258,93 +256,135 @@ This diagram shows and admin user adding a new item to the menu:
 
 #### Home Page - Logout out
 
-Nav bar allows Users to login and register
+- Nav bar
+  - Home page navigator
+  - Menu navigator
+  - Login or register navigator
+- Content - show the welcome message and show the cafe operation hours.
+- Button - navigate to menu page to allow user to do the online order.
 
 ![Home Page screenshot1](docs/HomePage.png)
 
 #### Login page
 
-Users can login on this page, if users dont have an account they can register
+- Ask for login details to allow user to sign in
+- If user is not an existing account holder, they can click on the register now button to do the next step.
 
 ![Login Page](docs/Login.png)
 
 #### Register Page
 
-Users can register on this page
+- Show the required fields to the user to fill in.
+- Allow user to input their details.
+- Show a button which allows the user to submit the registration.
 
 ![Register page](docs/register.png)
 
 #### Home Page Logged in
 
-Once user have logged in they can access thier profile on the top right of the screen
+- Once the user has logged in, the login/register button will become as user icon.
+- The user icon will contain a drop down menu
 
 ![Register page](docs/loggedin.png)
 
-#### Menu
+#### Menu page
 
-Using the menu navigation bar, users can filter the menu items using the left buttons, each item is displayed in a seperate card, users can add an item to there favourites list using the star icon, a quick add icon is also shown on the card using the cart icon, this will add the item without any modifcations
+- On the left there are catagories under the menu.
+- Each catagory contains different items.
+- Each item can be click to open to show details.
+- Each item can be saved to the favourite page by clicking on the star icon.
+- Each item can be added to cart by clicking on the cart icon.
+- On the top middle, there is search field that allows the user to search for the item they want.
+- On the top right, there is a cart icon that allows the user to manage the cart quickly.
 
 ![Register page](docs/OrderingScreen.png)
 
 #### Menu cart
 
-If the users click on the cart icon at the top right the cart will be shown allowing for items to be added in quantity while also showing the price and finally deleting the item. Once the user is happy with the cart they can confirm the order.
+- Once the user clicks on the top right cart icon, that will show a table of the cart items. That will allow users to easily access the items in the cart.
+- Add, Reduce and Cross icons are shown to allow the user to add more, reduce or delete the items in the cart.
+- A checkout button will be shown to allow the user fast access to the checkout process.
 
 ![Register page](docs/Opencart.png)
 
-#### Extended menu
+#### Item Component
 
-The extended menu allows users to add modifications to an item, including sugars and different milk.
+- Item component shows the individual item details.
+- Picture to display what the item looks like.
+- Price to show the users how much the item costs.
+- Discription to show what ingredients are used.
+- Add on toggles to allow the user to modify the item.
+- Add to favourite button.
+- Add to cart button.
 
 ![Register page](docs/extended.png)
 
 #### Cart
 
-The cart page is the final check before the user confirms the order.
+- An item picture showing what the user has put in the cart.
+- An icon button to allow user to adjust the quantity of the item.
+- Some text showing the total number of that item in the cart.
+- An X icon button to allow users to remove the item from the cart.
+- A checkout out button to allow users to finalise the order.
 
 ![Register page](docs/Cart.png)
 
 #### Order Confirmation
 
-The order confirmation page will allow users to choose a time for the order, they have the option of choosing a specific time or have the order made straight away.
+- Item details and amount are shown to user after they have submitted.
+- A time picker to allow the user to see and select the pickup time.
+- A button to allow user to confirm the order and finalised the checkout.
 
 ![Register page](docs/Orderconfirmation.png)
 
 #### User Order History
 
-The user order histroy is found under the option menu for the users profile, this allows users to see previous orders, users will be able to add specific items to the cart from the order or the entire order
+- Show each order with the order date, status and total amount.
+- Each order can be clicked on to see more details of the individual order.
 
 ![Register page](docs/Userorderhistory.png)
 
 #### User Favourite List
 
-Found under the users profile, the favourites list is where users find there saved menu items, these can also be added to the cart.
+- View the favourite items which the user saved from the menu item which is the star icon.
+- The favourite item can be unsaved.
+- The favourite item can add to the cart directly.
 
 ![Register page](docs/UserFavouritelist.png)
 
 #### Admin current orders
 
-The first admin page will allow staff to see the current orders, they can adjust the time, and change the status of the item.
+- Show the current orders.
+- Show the orders name and status.
+- The status can be modified by an admin from pending to complete
+- When we need to be cancel the order, an admin can click the individual order to cancel.
 
 ![Register page](docs/Admincurrentorders.png)
 
 #### Edit and add items
 
-![Register page](docs/editaddmenuitems.png)
+- The Edit Items button to allow admim to modify the existing items.
+- The Add Item button to allow admim to add some new items.
+  ![Register page](docs/editaddmenuitems.png)
 
 #### Add items
 
-Admins can add items to the menu, they will choose the menu item type, name, description and the price
+- Category to show what category the new item belongs to.
+- Item input fields to allow admit to input details.
 
 ![Register page](docs/additems.png)
 
 #### Edit items
 
-Similar to the add items page, the admins can edit exisitng items
+- Item name to allow admit to find the existing item to edit.
+- A confirm button will add to later to allow admit to confirm the edit.
 
 ![Register page](docs/edititems.png)
 
 ### Phone Screens
+
+- All the phone screen size are design max width to 600px.
+- All the functionality will be same as the desktop.
 
 #### Home - logged out
 
